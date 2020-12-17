@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Nsengimana Veda Dominique</h1>
-<h3>A senior professional software engineer with 3 years of experience in application design and development with an innovative concept to the next evolutionary phase. Having a strong communication, leadership, and technical background.</h3>
+<h3>A senior professional software engineer with 3 years of experience in application design and development with an innovative concept to the next evolutionary phase. Having a strong communication and leadership.</h3>
 
 <br/>
 
