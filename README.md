@@ -3,21 +3,11 @@
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedadom&label=Profile%20views&color=0e75b6&style=flat" alt="vedadom" /> </p>
-
-<br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedadom" alt="vedadom" /></a> </p>
-
-<br/>
-
 <h3>💬 Ask me about <strong>Flutter, React and React Native</strong></h3>
 
 <h3>📫 How to reach me <strong>nsengimanavedadom@gmail.com</strong></h3>
 
 <h3>📄 Know about my experiences <a href="https://vedadom.web.app" target="blank"> vedadom.web.app</a></h3>
-
-<h3>⚡ Fun fact <strong>The wood frog can hold its pee for up to eight months.</strong></h3>
 
 <br/>
 
@@ -99,14 +89,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedadom&" alt="vedadom" /></p>
 
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-
-<br/>
-
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/vedadom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/vedadom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dominique-nsengimana-veda-674a9b79/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dominique-nsengimana-veda-674a9b79/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6596226/veda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6596226/veda" height="30" width="40" /></a>
-</p>
