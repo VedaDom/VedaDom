@@ -5,7 +5,7 @@
 
 <h3>💬 Ask me about <strong>Flutter, React and React Native</strong></h3>
 
-<h3>📫 How to reach me <strong>nsengimanavedadom@gmail.com</strong></h3>
+<h3>📫 Reach me at: <strong>nsengimanavedadom@gmail.com</strong></h3>
 
 <h3>📄 Know about my experiences <a href="https://vedadom.web.app" target="blank"> vedadom.web.app</a></h3>
 
